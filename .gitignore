@@ -21,11 +21,12 @@ ehthumbs.db
 [Bb]uild
 *.stackdump
 
-[Ll]ibrary/
+[Ll]ibrary
 [Tt]emp/
 [Bb]uilds/
 [Ll]ogs/
 [Mm]emoryCaptures/
+[..].vs/
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 [Aa]ssets/AssetStoreTools*
@@ -69,3 +70,7 @@ crashlytics-build.properties
 .gradle/
 
 
+/.vs
+/Library
+/Packages
+/UserSettings
